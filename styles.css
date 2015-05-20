@@ -1,0 +1,31 @@
+.container {
+  width: 85%;
+  margin: 0 auto;
+  font-size: 24px;
+  font-family: sans-serif;
+}
+
+header {
+  height: 50px;
+  color: white;
+  background-color: black;
+  margin-top: 0;
+}
+
+header > p {
+  text-align: center;
+  padding-top: 10px;
+}
+
+i {
+  /*font-size: 50px;*/
+}
+
+.fa-play {
+  visibility: visible;
+  color: black;
+}
+
+.fa-stop {
+  visibility: visible;
+}
